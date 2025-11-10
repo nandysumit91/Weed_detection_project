@@ -116,5 +116,5 @@ Check metrics like **mAP**, **precision**, and **recall**.
 
 ## 👨‍💻 Author
 **Sumit Kumar Nandy**  
-*Computer Science & Engineering Student*  
-Email: *[your-email@example.com]*
+*Information Technology Student*  
+Email: *nandysumit91@gmail.com*
